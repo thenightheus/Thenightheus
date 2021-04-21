@@ -9,7 +9,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/thenightheus) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/berkcanbuke_/?hl=tr) 
-[![Discord Badge](https://img.shields.io/badge/Zenith%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.gg/858TbcUNYz) 
+[![Discord Badge](https://img.shields.io/badge/Nightheus%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.gg/858TbcUNYz) 
 
 
 
